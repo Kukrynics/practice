@@ -4,6 +4,7 @@ from feature_extraction import extract_features
 from similarity_check import is_similar
 from config import SIMILARITY_THRESHOLD
 
+
 def main():
     """
     Основная функция программы.
