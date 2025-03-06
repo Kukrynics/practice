@@ -4,23 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45668417-c475-4058-b884-f2a42e6c711e" name="Changes" comment="" />
+    <list default="true" id="44f8f4e4-b6be-43e8-bf96-8cc247d07f27" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
+  &quot;associatedIndex&quot;: 4
 }</component>
-  <component name="ProjectId" id="2tvqN46XDxA6Fst5fVD27m0pY13" />
+  <component name="ProjectId" id="2tw0uj2uoL23yIH085TILwTLOv8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,15 +24,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\PythonProjectParserOmegaBd" />
-      <recent name="D:\PythonProjectParserOmegaBd\parsers" />
-    </key>
-  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProjectParserOmegaBd" />
+      <module name="ParserPythonProjectOmega" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,11 +63,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="45668417-c475-4058-b884-f2a42e6c711e" name="Changes" comment="" />
-      <created>1741242853123</created>
+      <changelist id="44f8f4e4-b6be-43e8-bf96-8cc247d07f27" name="Changes" comment="" />
+      <created>1741248053388</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1741242853123</updated>
+      <updated>1741248053388</updated>
     </task>
     <servers />
   </component>

@@ -1,0 +1,6 @@
+feedparser
+telethon
+psycopg2-binary
+mega.py
+schedule
+logging
